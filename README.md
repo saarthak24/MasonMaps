@@ -1,4 +1,4 @@
-# MasonMaps
+# MasonMaps (CS321 - Fall 2023)
 
 ## To run frontend:
 Install nodejs from [here](https://nodejs.org) and select the LTS version (left green button)
